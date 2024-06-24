@@ -1,0 +1,18 @@
+while count <= 7:
+   count = 0
+   total_Bottle = 0
+   today_Bottle = 0
+   today_Bottle = float(input("How may bottles were collected today?")
+   total_Bottle = today_Bottle + 1
+   count = count + 1
+
+total_Pay = 0
+total_Pay = total_Bottle * .10
+
+print("The total number of Bottles colleted was:", total_Bottles)
+print(" The total payout is:", total_Pay)
+
+print("Do you want toenter in another weeks worth of data?")
+keepGoing = print("(Enter y or n)")
+
+   
